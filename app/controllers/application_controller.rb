@@ -6,6 +6,6 @@ class ApplicationController < ActionController::Base
   end
 
   def goodbay
-    render html: "Good bay!"
+    render html: "Good bay mam!"
   end
 end
